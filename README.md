@@ -7,12 +7,12 @@ The Personal Budget Planner and Expense Tracker is a desktop application designe
 
 The goal of this project is to promote financial literacy by enabling users to take control of their money, understand their spending habits, and make data-driven financial decisions.
 
-👩‍💻 Team Members
+## 👩‍💻 Team Members
 - Lethabo Khalo  
 - Muhammed Hirsi  
 - Reagile Motsepe
 
-🎯 Project Features
+## 🎯 Project Features
  1. User Authentication
 - Secure Sign-Up and Login functionality  
 - User data validation and encrypted storage  
@@ -32,13 +32,13 @@ The goal of this project is to promote financial literacy by enabling users to t
 - Export reports for personal recordkeeping  
 - (Optional) Machine Learning integration for spending predictions and personalized tips  
 
-🧠 Concepts Applied
+## 🧠 Concepts Applied
 Object-Oriented Programming (OOP):Implemented through classes like `Income`, `Expense`, `BudgetManager`, and `ReportGenerator`  
 - Interfaces:`IReportGenerator` for modular report generation  
 - UI/UX Design: Intuitive and user-friendly interface  
 - Data Security: Safe handling and storage of user information  
 
- 🧩 System Design
+## 🧩 System Design
 Class Diagram Overview
 - Income → Handles user income details  
 - Expense → Stores and validates expense entries  
